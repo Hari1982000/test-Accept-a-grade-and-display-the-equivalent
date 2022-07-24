@@ -1,0 +1,14 @@
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\bin\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.exe
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\bin\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.deps.json
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\bin\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.runtimeconfig.json
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\bin\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.runtimeconfig.dev.json
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\bin\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.dll
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\bin\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.pdb
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\obj\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\obj\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\obj\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\obj\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\obj\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\obj\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.dll
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\obj\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.pdb
+C:\Users\Welcome\source\repos\Accept-a-grade-and-display-the-equivalent.cs\Accept-a-grade-and-display-the-equivalent.cs\obj\Debug\netcoreapp3.1\Accept-a-grade-and-display-the-equivalent.cs.genruntimeconfig.cache
