@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Accept_a_grade_and_display_the_equivalent.cs</RootNamespace>
-  </PropertyGroup>
-
-</Project>
